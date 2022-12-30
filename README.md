@@ -1,10 +1,10 @@
 # Weaviate Vector Database Project
 Weaviate Overview and Semantic Search Demo
 
-By: Candace Edwards
-Email: [cedward2@hawaii.edu](mailto:cedward2@hawaii.edu)
+By: Candace Edwards <br>
+Email: [cedward2@hawaii.edu](mailto:cedward2@hawaii.edu) <br>
 
-This is the final project for ICS691B: Big Data Analytics, Fall 2022. Submitted: 12/15/22
+This is the final project for ICS691B: Big Data Analytics, Fall 2022. <br> Submitted: 12/15/22
 
 In this project I’ve explored the relevant architecture of the Weaviate core node, implemented a vector database using Weaviate and applied three dimensionality reduction algorithms to provide 2D and 3D visualization of the vector data.
 
