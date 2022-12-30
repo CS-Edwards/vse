@@ -10,6 +10,9 @@ In this project I’ve explored the relevant architecture of the Weaviate core n
 
 The data for this project is gathered by scraping the UH Manoa spring ‘23 registration page and course catalog page. Ultimately, we use course information such as the course name, course description, department and instructor to build our database objects and vectorize our data. 
 
+## Notebook
+`Weaviate_Project.ipynb`
+
 ## Data
 <ul>
 <li> Data for dataframe directory/file: `data/data_df.csv`
